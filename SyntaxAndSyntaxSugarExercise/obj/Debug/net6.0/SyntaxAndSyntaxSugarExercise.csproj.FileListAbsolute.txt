@@ -1,0 +1,15 @@
+C:\CODING\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\bin\Debug\net6.0\SyntaxAndSyntaxSugarExercise.exe
+C:\CODING\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\bin\Debug\net6.0\SyntaxAndSyntaxSugarExercise.deps.json
+C:\CODING\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\bin\Debug\net6.0\SyntaxAndSyntaxSugarExercise.runtimeconfig.json
+C:\CODING\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\bin\Debug\net6.0\SyntaxAndSyntaxSugarExercise.dll
+C:\CODING\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\bin\Debug\net6.0\SyntaxAndSyntaxSugarExercise.pdb
+C:\CODING\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODING\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.AssemblyInfoInputs.cache
+C:\CODING\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.AssemblyInfo.cs
+C:\CODING\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.csproj.CoreCompileInputs.cache
+C:\CODING\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.sourcelink.json
+C:\CODING\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.dll
+C:\CODING\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\refint\SyntaxAndSyntaxSugarExercise.dll
+C:\CODING\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.pdb
+C:\CODING\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.genruntimeconfig.cache
+C:\CODING\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\ref\SyntaxAndSyntaxSugarExercise.dll
